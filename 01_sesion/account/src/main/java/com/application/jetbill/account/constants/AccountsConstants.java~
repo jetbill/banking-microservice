@@ -1,0 +1,8 @@
+package com.application.jetbill.account.constants;
+
+public final class AccountsConstants {
+
+    private AccountsConstants() {
+        // restrict instantiation
+    }
+}

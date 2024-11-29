@@ -1,0 +1,4 @@
+package com.application.jetbill.account.mapper;
+
+public class CustomerMapper {
+}
